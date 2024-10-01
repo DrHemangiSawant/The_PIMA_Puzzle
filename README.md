@@ -29,9 +29,10 @@ Focused on people under 30 years old, identifying those with glucose levels over
 Explored pregnancies in diabetic women under 30.
 Created stacked bar graphs to visualize the number of pregnant women with high glucose levels according to age.
 
-Visualizations
+Visualizations:
+
 Several plots and charts were generated during the analysis, including:
 
-Bar graphs for diabetic vs non-diabetic population.
-Histograms for pregnancies and glucose levels.
-Stacked bar graphs representing glucose levels and pregnancies by age.
+1. Bar graphs for diabetic vs non-diabetic population.
+2. Histograms for pregnancies and glucose levels.
+3. Stacked bar graphs representing glucose levels and pregnancies by age.
