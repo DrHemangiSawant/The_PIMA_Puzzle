@@ -36,3 +36,17 @@ Several plots and charts were generated during the analysis, including:
 1. Bar graphs for diabetic vs non-diabetic population.
 2. Histograms for pregnancies and glucose levels.
 3. Stacked bar graphs representing glucose levels and pregnancies by age.
+
+Tools and Libraries Used:
+
+1. Python 3.10 for scripting.
+2. Pandas for data manipulation and cleaning.
+3. Numpy for numerical operations.
+4. Matplotlib for creating visualizations.
+5. Jupyter Notebook for interactive code development.
+
+Conclusion:
+
+This analysis provides insight into how certain factors like glucose levels, pregnancies, and age affect the likelihood of diabetes. The visualizations help to understand the distribution of these factors in the dataset.
+
+
